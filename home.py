@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Home")
 df=pd.read_csv('open_pubs2.csv')
 
-st.markdown("## Name : Mohammad Wasiq")
+st.title("Mohammad Wasiq")
 st.markdown("## Innomatics Research Labs Feb-2023 Internship Project")
 st.write("## Connect me on Linkedin [link](https://www.linkedin.com/in/mohammadwasiq0/)")
 st.write("## Follow me on Github [link](https://github.com/mohammadwasiq0)")
