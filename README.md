@@ -1,8 +1,4 @@
-# [Nearest Pub](https://mohammadwasiq0-nearest-uk-pub-home-eingul.streamlit.app/)
-
-## Task - Open Pub Application
-
-## Task - Create a multi page application using Streamlit with the following requirements.
+# [Nearest UK Pub](https://mohammadwasiq0-nearest-uk-pub-home-eingul.streamlit.app/)
 
 ### Page Number 1 - (Home Page)
 It should be like a welcome page. Show some basic information and statistics about the dataset.
