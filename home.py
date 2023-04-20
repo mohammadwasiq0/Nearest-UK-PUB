@@ -51,8 +51,3 @@ st.dataframe(df.corr())
 fig, ax = plt.subplots()
 sns.heatmap(df.corr(), annot=True,  ax=ax)
 st.write(fig)
-
-
-st.subheader('Visualization of Pubs under each Authority')
-img = Image.open("EDAA.PNG") 
-st.image(img, width=700)
