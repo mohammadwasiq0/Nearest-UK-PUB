@@ -16,6 +16,9 @@ st.write("## Follow me on Github [link](https://github.com/mohammadwasiq0)")
 # st.sidebar.success("navigate pages ^ ")
 st.title(" Nearest Pub to Me")
 
+img = Image.open("EDAA.PNG") 
+st.image(img)
+         
 st.text('''Let’s assume you are on a Vacation in the United Kingdom with your friends. Just for 
 some fun, you decided to go to the Pubs nearby for some drinks. Google Map 
 is down because of some issues. 
@@ -51,5 +54,5 @@ st.write(fig)
 
 
 st.subheader('Visualization of Pubs under each Authority')
-img = Image.open("EDA.png") 
+img = Image.open("EDAA.PNG") 
 st.image(img, width=700)
